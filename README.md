@@ -9,6 +9,7 @@ A simple Java-based client-server chat application demonstrating basic socket co
 - [How to Run](#how-to-run)
 - [Examples (Screenshots)](#examplesscreenshots)
 - [Structure](#structure)
+- [Structure](#project-report)
 - [Group Members](#group-members)
 
 ## Features
@@ -60,7 +61,7 @@ Here are screenshots showing the execution of the chat application:
 ### 6. Server terminates
 ![Screenshot 6](files/screenshots/6.jpg)
 
-## 📄 Project Report
+## Project Report
 
 You can download the 1-page project report here:  
 [📥 Download Report (PDF)](files/report.pdf)
