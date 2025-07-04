@@ -9,7 +9,7 @@ A simple Java-based client-server chat application demonstrating basic socket co
 - [How to Run](#how-to-run)
 - [Examples (Screenshots)](#examplesscreenshots)
 - [Structure](#structure)
-- [Structure](#project-report)
+- [Project Report](#project-report)
 - [Group Members](#group-members)
 
 ## Features
