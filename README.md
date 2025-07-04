@@ -8,8 +8,8 @@ A simple Java-based client-server chat application demonstrating basic socket co
 - [Technologies](#technologies)
 - [How to Run](#how-to-run)
 - [Examples (Screenshots)](#examplesscreenshots)
-- [Structure](#structure)
 - [Project Report](#project-report)
+- [Structure](#structure)
 - [Group Members](#group-members)
 
 ## Features
@@ -64,12 +64,15 @@ Here are screenshots showing the execution of the chat application:
 ## Project Report
 
 You can download the 1-page project report here:  
-[📥 Download Report (PDF)](files/report.pdf)
+[Download Report (PDF)](files/report.pdf)
 
 ## Structure
 
 chat-app/  
-├── Screenshots  
+├── files/
+│   ├── Screenshots/
+│   │   └── 1.jpg - 6.jpg
+│   └── report.pdf
 ├── ChatServer.java – Server-side code: accepts one client and responds  
 ├── ChatClient.java – Client-side code: connects and sends messages  
 └── README.md – Project overview and instructions
@@ -77,6 +80,6 @@ chat-app/
 ## Group Members
 
 - Fikir Samuel  
-- Fitsum  
+- Fitsum Birhanu
 - Dagim Bireda  
 - Kenean Alemayhu
