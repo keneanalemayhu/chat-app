@@ -18,7 +18,26 @@ A simple Java-based client-server chat application demonstrating basic socket co
 
 ## 🚀 How to Run
 
-### 1. Compile
-
-```bash
+### 1. Compile  
 javac ChatServer.java ChatClient.java
+
+### 2. Run the server ChatServer file first  
+java ChatServer
+
+### 3. Then start the client file ChatClient and send messages  
+java ChatClient
+
+### 4. Then to finish/quit write `quit` on the ChatClient terminal and just write quit
+
+## 📁 Structure  
+chat-app/  
+├── ChatServer.java – Server-side code: accepts one client and responds  
+├── ChatClient.java – Client-side code: connects and sends messages  
+└── README.md – Project overview and instructions
+
+## 👥 Group Members
+
+- [Fikir Samuel]
+- [Fitsum]
+- [Dagim Bireda]
+- [Kenean Alemayhu]
