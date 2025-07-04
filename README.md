@@ -70,8 +70,11 @@ You can download the 1-page project report here:
 
 chat-app/  
 ├── files/
+
 │   ├── Screenshots/
+
 │   │   └── 1.jpg - 6.jpg
+
 │   └── report.pdf
 ├── ChatServer.java – Server-side code: accepts one client and responds  
 ├── ChatClient.java – Client-side code: connects and sends messages  
