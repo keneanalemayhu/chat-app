@@ -43,22 +43,27 @@ java ChatClient
 Here are screenshots showing the execution of the chat application:
 
 ### 1. Server starts and waits for client
-![Screenshot 1](screenshots/1.jpg)
+![Screenshot 1](files/screenshots/1.jpg)
 
 ### 2. Client connects to server
-![Screenshot 2](screenshots/2.jpg)
+![Screenshot 2](files/screenshots/2.jpg)
 
 ### 3. Client sends message
-![Screenshot 3](screenshots/3.jpg)
+![Screenshot 3](files/screenshots/3.jpg)
 
 ### 4. Server receives and responds
-![Screenshot 4](screenshots/4.jpg)
+![Screenshot 4](files/screenshots/4.jpg)
 
 ### 5. Client sends "quit"
-![Screenshot 5](screenshots/5.jpg)
+![Screenshot 5](files/screenshots/5.jpg)
 
 ### 6. Server terminates
-![Screenshot 6](screenshots/6.jpg)
+![Screenshot 6](files/screenshots/6.jpg)
+
+## 📄 Project Report
+
+You can download the 1-page project report here:  
+[📥 Download Report (PDF)](files/report.pdf)
 
 ## Structure
 
