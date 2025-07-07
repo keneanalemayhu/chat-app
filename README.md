@@ -67,7 +67,7 @@ You can download the 1-page project report here:
 [Download Report (PDF)](files/report.pdf)
 
 ## Structure
-
+<pre>
 chat-app/  
 ├── files/ 
 │   ├── Screenshots/ 
@@ -76,9 +76,11 @@ chat-app/
 ├── ChatServer.java – Server-side code: accepts one client and responds  
 ├── ChatClient.java – Client-side code: connects and sends messages  
 └── README.md – Project overview and instructions
+</pre>
 
 ## Group Members
 
+- Anteneh Moges
 - Fikir Samuel  
 - Fitsum Birhanu
 - Dagim Bireda  
